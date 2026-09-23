@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Dotfiles & Terminal Environment Setup
 
 Automated setup script for a clean, modern, and high-performance macOS/Linux terminal environment using **Oh My Zsh**, **Starship**, **FZF**, and custom Zsh plugins.
