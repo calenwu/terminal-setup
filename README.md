@@ -12,7 +12,6 @@ Automated setup script for a clean, modern, and high-performance macOS/Linux ter
 * **[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions):** Asynchronous inline history completion suggestions.
 * **[zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting):** Real-time command syntax highlighting.
 * **[Cursor Editor Integration](https://cursor.sh/):** Sets Cursor (`cursor --wait`) as the default `$EDITOR` and `$VISUAL` terminal editor.
-* **Stripe Internal Shell Config Support:** Automatically includes `~/.stripe/shellinit/zshrc` if present.
 
 ---
 
